@@ -1,0 +1,41 @@
+﻿序号,shopid,itemid,标题,图片地址,图片地址列表,价格,划线价,折扣,详情,详情图片列表,规格,SKU列表,销量,评分,评分明细,店铺名,店铺地区,api地址,来源页面,详情页URL,详情状态,详情错误,采集时间,原始JSON
+1,,3170810119,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3170810119.html,pending,,,{}
+2,,2746945386,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2746945386.html,pending,,,{}
+3,,2044597653,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2044597653.html,empty,detail fields not found,2026-07-10T04:18:02.201695+00:00,"{""module"": {}, ""page_json"": []}"
+4,,13778973196,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13778973196.html,pending,,,{}
+5,,2972889913,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2972889913.html,pending,,,{}
+6,,2563955645,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2563955645.html,pending,,,{}
+7,,3433222005,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3433222005.html,pending,,,{}
+8,,13716253550,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13716253550.html,pending,,,{}
+9,,1341874802,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i1341874802.html,empty,detail fields not found,2026-07-10T04:18:31.461544+00:00,"{""module"": {}, ""page_json"": []}"
+10,,1341886340,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i1341886340.html,pending,,,{}
+11,,2403456165,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2403456165.html,pending,,,{}
+12,,3519720903,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3519720903.html,error,"navigation error: Page.goto: Target page, context or browser has been closed",2026-07-10T04:19:30.355035+00:00,{}
+13,,2072359456,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2072359456.html,pending,,,{}
+14,,3588689876,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3588689876.html,pending,,,{}
+15,,13754381737,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13754381737.html,pending,,,{}
+16,,1461810678,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i1461810678.html,pending,,,{}
+17,,2373292809,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2373292809.html,pending,,,{}
+18,,13702603418,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13702603418.html,pending,,,{}
+19,,3063445872,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3063445872.html,pending,,,{}
+20,,13657568677,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13657568677.html,pending,,,{}
+21,,1989161243,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i1989161243.html,pending,,,{}
+22,,2851852351,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2851852351.html,pending,,,{}
+23,,3420312048,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3420312048.html,pending,,,{}
+24,,3440783375,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3440783375.html,pending,,,{}
+25,,13761670123,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13761670123.html,pending,,,{}
+26,,245360129,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i245360129.html,pending,,,{}
+27,,13702487981,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13702487981.html,empty,detail fields not found,2026-07-10T04:19:21.926681+00:00,"{""module"": {}, ""page_json"": []}"
+28,,13672208492,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13672208492.html,pending,,,{}
+29,,3608448930,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3608448930.html,pending,,,{}
+30,,3497518167,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i3497518167.html,pending,,,{}
+31,,2946112528,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2946112528.html,empty,detail fields not found,2026-07-10T04:19:02.489614+00:00,"{""module"": {}, ""page_json"": []}"
+32,,13772450450,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13772450450.html,pending,,,{}
+33,,2185502198,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2185502198.html,error,"navigation error: Page.goto: Target page, context or browser has been closed",2026-07-10T04:19:55.190789+00:00,{}
+34,,13770967354,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13770967354.html,pending,,,{}
+35,,303422458,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i303422458.html,error,"navigation error: Page.goto: Target page, context or browser has been closed",2026-07-10T04:19:38.333494+00:00,{}
+36,,2431616238,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2431616238.html,error,"navigation error: Page.goto: Target page, context or browser has been closed",2026-07-10T04:19:46.634331+00:00,{}
+37,,13754793671,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13754793671.html,pending,,,{}
+38,,13675018945,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13675018945.html,pending,,,{}
+39,,2615566903,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i2615566903.html,pending,,,{}
+40,,13746308102,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Air%20Care&from=hp_categories&src=all_channel,https://www.lazada.sg/products/pdp-i13746308102.html,pending,,,{}
