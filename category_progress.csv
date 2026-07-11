@@ -48,46 +48,52 @@ Call log:
 44,Baby Oral Care,https://www.lazada.sg/catalog?q=Baby%20Oral%20Care&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\044_Baby_Oral_Care,2026-07-11 12:06:40,2026-07-11 12:12:29,Lazada verification or traffic page detected
 45,Baby Personal Care,https://www.lazada.sg/catalog?q=Baby%20Personal%20Care&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\045_Baby_Personal_Care,2026-07-11 12:15:57,2026-07-11 12:21:28,Lazada verification or traffic page detected
 46,Baby Safety,https://www.lazada.sg/catalog?q=Baby%20Safety&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\046_Baby_Safety,2026-07-11 12:22:07,2026-07-11 12:26:47,[Errno 22] Invalid argument
-47,Babyproofing & Safety,https://www.lazada.sg/catalog?q=Babyproofing%20%26%20Safety&from=hp_categories&src=all_channel,,,,,,,,,
-48,Backpacks,https://www.lazada.sg/catalog?q=Backpacks&from=hp_categories&src=all_channel,,,,,,,,,
-49,Badminton,https://www.lazada.sg/catalog?q=Badminton&from=hp_categories&src=all_channel,,,,,,,,,
-50,Badminton Shoes,https://www.lazada.sg/catalog?q=Badminton%20Shoes&from=hp_categories&src=all_channel,,,,,,,,,
-51,Bags,https://www.lazada.sg/catalog?q=Bags&from=hp_categories&src=all_channel,,,,,,,,,
-52,Baked Goods & Desserts,https://www.lazada.sg/catalog?q=Baked%20Goods%20%26%20Desserts&from=hp_categories&src=all_channel,,,,,,,,,
-53,Bakeware,https://www.lazada.sg/catalog?q=Bakeware&from=hp_categories&src=all_channel,,,,,,,,,
-54,Ball Pits & Accessories,https://www.lazada.sg/catalog?q=Ball%20Pits%20%26%20Accessories&from=hp_categories&src=all_channel,,,,,,,,,
-55,Baseball,https://www.lazada.sg/catalog?q=Baseball&from=hp_categories&src=all_channel,,,,,,,,,
-56,Basketball,https://www.lazada.sg/catalog?q=Basketball&from=hp_categories&src=all_channel,,,,,,,,,
-57,Bath,https://www.lazada.sg/catalog?q=Bath&from=hp_categories&src=all_channel,,,,,,,,,
-58,Bath & Baby Care,https://www.lazada.sg/catalog?q=Bath%20%26%20Baby%20Care&from=hp_categories&src=all_channel,,,,,,,,,
-59,Bath & Body,https://www.lazada.sg/catalog?q=Bath%20%26%20Body&from=hp_categories&src=all_channel,,,,,,,,,
-60,Bath Mats,https://www.lazada.sg/catalog?q=Bath%20Mats&from=hp_categories&src=all_channel,,,,,,,,,
-61,Bath Toys,https://www.lazada.sg/catalog?q=Bath%20Toys&from=hp_categories&src=all_channel,,,,,,,,,
-62,Bathing Tubs & Accessories,https://www.lazada.sg/catalog?q=Bathing%20Tubs%20%26%20Accessories&from=hp_categories&src=all_channel,,,,,,,,,
-63,Bathroom Counter Storage,https://www.lazada.sg/catalog?q=Bathroom%20Counter%20Storage&from=hp_categories&src=all_channel,,,,,,,,,
-64,Bathroom Fixtures,https://www.lazada.sg/catalog?q=Bathroom%20Fixtures&from=hp_categories&src=all_channel,,,,,,,,,
-65,Bathroom Mirrors,https://www.lazada.sg/catalog?q=Bathroom%20Mirrors&from=hp_categories&src=all_channel,,,,,,,,,
-66,Bathroom Scales,https://www.lazada.sg/catalog?q=Bathroom%20Scales&from=hp_categories&src=all_channel,,,,,,,,,
-67,Bathroom Shelving,https://www.lazada.sg/catalog?q=Bathroom%20Shelving&from=hp_categories&src=all_channel,,,,,,,,,
-68,Batteries,https://www.lazada.sg/catalog?q=Batteries&from=hp_categories&src=all_channel,,,,,,,,,
-69,BBQ & Outdoor Dining,https://www.lazada.sg/catalog?q=BBQ%20%26%20Outdoor%20Dining&from=hp_categories&src=all_channel,,,,,,,,,
-70,Beachwear & Accessories,https://www.lazada.sg/catalog?q=Beachwear%20%26%20Accessories&from=hp_categories&src=all_channel,,,,,,,,,
-71,Beauty Supplements,https://www.lazada.sg/catalog?q=Beauty%20Supplements&from=hp_categories&src=all_channel,,,,,,,,,
-72,Beauty Tools,https://www.lazada.sg/catalog?q=Beauty%20Tools&from=hp_categories&src=all_channel,,,,,,,,,
-73,Bed Sheets,https://www.lazada.sg/catalog?q=Bed%20Sheets&from=hp_categories&src=all_channel,,,,,,,,,
-74,Bedding,https://www.lazada.sg/catalog?q=Bedding&from=hp_categories&src=all_channel,,,,,,,,,
-75,Bedding Sets,https://www.lazada.sg/catalog?q=Bedding%20Sets&from=hp_categories&src=all_channel,,,,,,,,,
-76,Bedroom Furniture,https://www.lazada.sg/catalog?q=Bedroom%20Furniture&from=hp_categories&src=all_channel,,,,,,,,,
-77,Beds,https://www.lazada.sg/catalog?q=Beds&from=hp_categories&src=all_channel,,,,,,,,,
-78,"Beds, Mats & Houses","https://www.lazada.sg/catalog?q=Beds,%20Mats%20%26%20Houses&from=hp_categories&src=all_channel",,,,,,,,,
-79,Bedside Tables,https://www.lazada.sg/catalog?q=Bedside%20Tables&from=hp_categories&src=all_channel,,,,,,,,,
-80,Beer,https://www.lazada.sg/catalog?q=Beer&from=hp_categories&src=all_channel,,,,,,,,,
-81,"Beer, Wines & Spirits","https://www.lazada.sg/catalog?q=Beer,%20Wines%20%26%20Spirits&from=hp_categories&src=all_channel",,,,,,,,,
-82,Belts,https://www.lazada.sg/catalog?q=Belts&from=hp_categories&src=all_channel,,,,,,,,,
-83,Beverages,https://www.lazada.sg/catalog?q=Beverages&from=hp_categories&src=all_channel,,,,,,,,,
-84,Bicycles,https://www.lazada.sg/catalog?q=Bicycles&from=hp_categories&src=all_channel,,,,,,,,,
-85,Bike lights & reflectors,https://www.lazada.sg/catalog?q=Bike%20lights%20%26%20reflectors&from=hp_categories&src=all_channel,,,,,,,,,
-86,Bikes,https://www.lazada.sg/catalog?q=Bikes&from=hp_categories&src=all_channel,,,,,,,,,
+47,Babyproofing & Safety,https://www.lazada.sg/catalog?q=Babyproofing%20%26%20Safety&from=hp_categories&src=all_channel,partial,100,40,40,482,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\047_Babyproofing_&_Safety,2026-07-11 12:29:17,2026-07-11 12:42:31,
+48,Backpacks,https://www.lazada.sg/catalog?q=Backpacks&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\048_Backpacks,2026-07-11 12:43:27,2026-07-11 12:49:28,Lazada verification or traffic page detected
+49,Badminton,https://www.lazada.sg/catalog?q=Badminton&from=hp_categories&src=all_channel,partial,100,40,40,732,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\049_Badminton,2026-07-11 12:49:57,2026-07-11 13:00:18,
+50,Badminton Shoes,https://www.lazada.sg/catalog?q=Badminton%20Shoes&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\050_Badminton_Shoes,2026-07-11 13:01:13,2026-07-11 13:08:32,Lazada verification or traffic page detected
+51,Bags,https://www.lazada.sg/catalog?q=Bags&from=hp_categories&src=all_channel,empty,100,0,0,0,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\051_Bags,2026-07-11 13:13:46,2026-07-11 13:14:54,
+52,Baked Goods & Desserts,https://www.lazada.sg/catalog?q=Baked%20Goods%20%26%20Desserts&from=hp_categories&src=all_channel,partial,100,40,40,62,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\052_Baked_Goods_&_Desserts,2026-07-11 13:16:26,2026-07-11 13:27:05,
+53,Bakeware,https://www.lazada.sg/catalog?q=Bakeware&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\053_Bakeware,2026-07-11 13:27:46,2026-07-11 13:30:20,Lazada verification or traffic page detected
+54,Ball Pits & Accessories,https://www.lazada.sg/catalog?q=Ball%20Pits%20%26%20Accessories&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\054_Ball_Pits_&_Accessories,2026-07-11 13:53:50,2026-07-11 13:54:35,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/catalog?q=Ball%20Pits%20%26%20Accessories&from=hp_categories&src=all_channel"", waiting until ""domcontentloaded""
+"
+55,Baseball,https://www.lazada.sg/catalog?q=Baseball&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\055_Baseball,2026-07-11 15:05:34,2026-07-11 15:12:42,[Errno 22] Invalid argument
+56,Basketball,https://www.lazada.sg/catalog?q=Basketball&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\056_Basketball,2026-07-11 15:25:34,2026-07-11 15:26:19,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/catalog?q=Basketball&from=hp_categories&src=all_channel"", waiting until ""domcontentloaded""
+"
+57,Bath,https://www.lazada.sg/catalog?q=Bath&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\057_Bath,2026-07-11 15:49:34,2026-07-11 15:57:04,Lazada verification or traffic page detected
+58,Bath & Baby Care,https://www.lazada.sg/catalog?q=Bath%20%26%20Baby%20Care&from=hp_categories&src=all_channel,partial,100,40,30,92,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\058_Bath_&_Baby_Care,2026-07-11 15:58:28,2026-07-11 16:06:33,
+59,Bath & Body,https://www.lazada.sg/catalog?q=Bath%20%26%20Body&from=hp_categories&src=all_channel,partial,100,40,30,207,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\059_Bath_&_Body,2026-07-11 16:07:07,2026-07-11 16:15:15,
+60,Bath Mats,https://www.lazada.sg/catalog?q=Bath%20Mats&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\060_Bath_Mats,2026-07-11 16:16:07,2026-07-11 16:19:10,Lazada verification or traffic page detected
+61,Bath Toys,https://www.lazada.sg/catalog?q=Bath%20Toys&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\061_Bath_Toys,2026-07-11 17:50:18,2026-07-11 17:52:31,Lazada verification or traffic page detected
+62,Bathing Tubs & Accessories,https://www.lazada.sg/catalog?q=Bathing%20Tubs%20%26%20Accessories&from=hp_categories&src=all_channel,partial,100,40,5,68,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\062_Bathing_Tubs_&_Accessories,2026-07-11 17:53:01,2026-07-11 17:58:54,
+63,Bathroom Counter Storage,https://www.lazada.sg/catalog?q=Bathroom%20Counter%20Storage&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\063_Bathroom_Counter_Storage,2026-07-11 17:59:40,2026-07-11 17:59:40,"Page.goto: Target page, context or browser has been closed"
+64,Bathroom Fixtures,https://www.lazada.sg/catalog?q=Bathroom%20Fixtures&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\064_Bathroom_Fixtures,2026-07-11 18:04:07,2026-07-11 18:11:36,Lazada verification or traffic page detected
+65,Bathroom Mirrors,https://www.lazada.sg/catalog?q=Bathroom%20Mirrors&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\065_Bathroom_Mirrors,2026-07-11 18:16:54,2026-07-11 18:17:01,Lazada verification or traffic page detected
+66,Bathroom Scales,https://www.lazada.sg/catalog?q=Bathroom%20Scales&from=hp_categories&src=all_channel,partial,100,40,30,168,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\066_Bathroom_Scales,2026-07-11 18:17:18,2026-07-11 18:28:57,
+67,Bathroom Shelving,https://www.lazada.sg/catalog?q=Bathroom%20Shelving&from=hp_categories&src=all_channel,partial,100,40,30,254,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\067_Bathroom_Shelving,2026-07-11 18:29:52,2026-07-11 18:43:12,
+68,Batteries,https://www.lazada.sg/catalog?q=Batteries&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\068_Batteries,2026-07-11 18:43:53,2026-07-11 18:46:25,Lazada verification or traffic page detected
+69,BBQ & Outdoor Dining,https://www.lazada.sg/catalog?q=BBQ%20%26%20Outdoor%20Dining&from=hp_categories&src=all_channel,partial,100,40,30,283,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\069_BBQ_&_Outdoor_Dining,2026-07-11 18:52:59,2026-07-11 19:04:45,
+70,Beachwear & Accessories,https://www.lazada.sg/catalog?q=Beachwear%20%26%20Accessories&from=hp_categories&src=all_channel,partial,100,40,30,409,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\070_Beachwear_&_Accessories,2026-07-11 19:05:17,2026-07-11 19:17:19,
+71,Beauty Supplements,https://www.lazada.sg/catalog?q=Beauty%20Supplements&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\071_Beauty_Supplements,2026-07-11 19:18:19,2026-07-11 19:20:36,Lazada verification or traffic page detected
+72,Beauty Tools,https://www.lazada.sg/catalog?q=Beauty%20Tools&from=hp_categories&src=all_channel,partial,100,40,30,182,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\072_Beauty_Tools,2026-07-11 19:46:09,2026-07-11 19:59:13,
+73,Bed Sheets,https://www.lazada.sg/catalog?q=Bed%20Sheets&from=hp_categories&src=all_channel,partial,100,40,30,2029,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\073_Bed_Sheets,2026-07-11 19:59:51,2026-07-11 20:14:22,
+74,Bedding,https://www.lazada.sg/catalog?q=Bedding&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\074_Bedding,2026-07-11 20:14:57,2026-07-11 20:18:26,Lazada verification or traffic page detected
+75,Bedding Sets,https://www.lazada.sg/catalog?q=Bedding%20Sets&from=hp_categories&src=all_channel,partial,100,40,30,1488,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\075_Bedding_Sets,2026-07-11 20:24:23,2026-07-11 20:39:51,
+76,Bedroom Furniture,https://www.lazada.sg/catalog?q=Bedroom%20Furniture&from=hp_categories&src=all_channel,partial,100,40,30,585,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\076_Bedroom_Furniture,2026-07-11 20:40:36,2026-07-11 20:53:40,
+77,Beds,https://www.lazada.sg/catalog?q=Beds&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\077_Beds,2026-07-11 20:54:14,2026-07-11 20:55:07,Lazada verification or traffic page detected
+78,"Beds, Mats & Houses","https://www.lazada.sg/catalog?q=Beds,%20Mats%20%26%20Houses&from=hp_categories&src=all_channel",failed,100,,,,"D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\078_Beds,_Mats_&_Houses",2026-07-11 21:07:25,2026-07-11 21:18:53,Lazada verification or traffic page detected
+79,Bedside Tables,https://www.lazada.sg/catalog?q=Bedside%20Tables&from=hp_categories&src=all_channel,partial,100,40,30,508,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\079_Bedside_Tables,2026-07-11 21:22:59,2026-07-11 21:37:39,
+80,Beer,https://www.lazada.sg/catalog?q=Beer&from=hp_categories&src=all_channel,partial,100,40,30,35,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\080_Beer,2026-07-11 21:38:21,2026-07-11 21:49:47,
+81,"Beer, Wines & Spirits","https://www.lazada.sg/catalog?q=Beer,%20Wines%20%26%20Spirits&from=hp_categories&src=all_channel",failed,100,,,,"D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\081_Beer,_Wines_&_Spirits",2026-07-11 21:50:19,2026-07-11 21:52:31,Lazada verification or traffic page detected
+82,Belts,https://www.lazada.sg/catalog?q=Belts&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\082_Belts,2026-07-11 22:02:25,2026-07-11 22:03:29,Lazada verification or traffic page detected
+83,Beverages,https://www.lazada.sg/catalog?q=Beverages&from=hp_categories&src=all_channel,partial,100,40,30,71,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\083_Beverages,2026-07-11 22:03:48,2026-07-11 22:14:20,
+84,Bicycles,https://www.lazada.sg/catalog?q=Bicycles&from=hp_categories&src=all_channel,partial,100,40,30,971,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\084_Bicycles,2026-07-11 22:15:17,2026-07-11 22:29:38,
+85,Bike lights & reflectors,https://www.lazada.sg/catalog?q=Bike%20lights%20%26%20reflectors&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\085_Bike_lights_&_reflectors,2026-07-11 22:30:25,2026-07-11 22:32:08,Lazada verification or traffic page detected
+86,Bikes,https://www.lazada.sg/catalog?q=Bikes&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\086_Bikes,2026-07-11 22:35:58,2026-07-11 22:48:26,Lazada verification or traffic page detected
 87,Bikinis,https://www.lazada.sg/catalog?q=Bikinis&from=hp_categories&src=all_channel,,,,,,,,,
 88,Bird Feed,https://www.lazada.sg/catalog?q=Bird%20Feed&from=hp_categories&src=all_channel,,,,,,,,,
 89,Biscuits & Crackers,https://www.lazada.sg/catalog?q=Biscuits%20%26%20Crackers&from=hp_categories&src=all_channel,,,,,,,,,
@@ -799,4 +805,4 @@ Call log:
 795,Writing & Correction,https://www.lazada.sg/catalog?q=Writing%20%26%20Correction&from=hp_categories&src=all_channel,,,,,,,,,
 796,Yo-yos & Kendamas,https://www.lazada.sg/catalog?q=Yo-yos%20%26%20Kendamas&from=hp_categories&src=all_channel,,,,,,,,,
 797,Yoga,https://www.lazada.sg/catalog?q=Yoga&from=hp_categories&src=all_channel,,,,,,,,,
-798,Yoghurt,https://www.lazada.sg/catalog?q=Yoghurt&
+798,Yoghurt,https://www.lazada.sg/catalog?q=Yoghurt&from=hp_categories&src=all_channel,,,,,,,,,
