@@ -94,38 +94,50 @@ Call log:
 84,Bicycles,https://www.lazada.sg/catalog?q=Bicycles&from=hp_categories&src=all_channel,partial,100,40,30,971,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\084_Bicycles,2026-07-11 22:15:17,2026-07-11 22:29:38,
 85,Bike lights & reflectors,https://www.lazada.sg/catalog?q=Bike%20lights%20%26%20reflectors&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\085_Bike_lights_&_reflectors,2026-07-11 22:30:25,2026-07-11 22:32:08,Lazada verification or traffic page detected
 86,Bikes,https://www.lazada.sg/catalog?q=Bikes&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\086_Bikes,2026-07-11 22:35:58,2026-07-11 22:48:26,Lazada verification or traffic page detected
-87,Bikinis,https://www.lazada.sg/catalog?q=Bikinis&from=hp_categories&src=all_channel,,,,,,,,,
-88,Bird Feed,https://www.lazada.sg/catalog?q=Bird%20Feed&from=hp_categories&src=all_channel,,,,,,,,,
-89,Biscuits & Crackers,https://www.lazada.sg/catalog?q=Biscuits%20%26%20Crackers&from=hp_categories&src=all_channel,,,,,,,,,
-90,Blankets & Throws,https://www.lazada.sg/catalog?q=Blankets%20%26%20Throws&from=hp_categories&src=all_channel,,,,,,,,,
-91,Blaster toys,https://www.lazada.sg/catalog?q=Blaster%20toys&from=hp_categories&src=all_channel,,,,,,,,,
-92,Blood Pressure Monitors,https://www.lazada.sg/catalog?q=Blood%20Pressure%20Monitors&from=hp_categories&src=all_channel,,,,,,,,,
-93,Blu-Ray/DVD Players,https://www.lazada.sg/catalog?q=Blu-Ray/DVD%20Players&from=hp_categories&src=all_channel,,,,,,,,,
-94,Body,https://www.lazada.sg/catalog?q=Body&from=hp_categories&src=all_channel,,,,,,,,,
-95,Body Moisturizers,https://www.lazada.sg/catalog?q=Body%20Moisturizers&from=hp_categories&src=all_channel,,,,,,,,,
-96,Body Scrubs,https://www.lazada.sg/catalog?q=Body%20Scrubs&from=hp_categories&src=all_channel,,,,,,,,,
-97,Body Wash,https://www.lazada.sg/catalog?q=Body%20Wash&from=hp_categories&src=all_channel,,,,,,,,,
-98,Bone & Joint Support,https://www.lazada.sg/catalog?q=Bone%20%26%20Joint%20Support&from=hp_categories&src=all_channel,,,,,,,,,
-99,Bookcases & Shelving,https://www.lazada.sg/catalog?q=Bookcases%20%26%20Shelving&from=hp_categories&src=all_channel,,,,,,,,,
-100,Books,https://www.lazada.sg/catalog?q=Books&from=hp_categories&src=all_channel,,,,,,,,,
-101,Boots,https://www.lazada.sg/catalog?q=Boots&from=hp_categories&src=all_channel,,,,,,,,,
-102,Bottle Cleaning,https://www.lazada.sg/catalog?q=Bottle%20Cleaning&from=hp_categories&src=all_channel,,,,,,,,,
-103,Bottle Warmers & Sterilizers,https://www.lazada.sg/catalog?q=Bottle%20Warmers%20%26%20Sterilizers&from=hp_categories&src=all_channel,,,,,,,,,
-104,Bottoms,https://www.lazada.sg/catalog?q=Bottoms&from=hp_categories&src=all_channel,,,,,,,,,
-105,Bowls & Feeders,https://www.lazada.sg/catalog?q=Bowls%20%26%20Feeders&from=hp_categories&src=all_channel,,,,,,,,,
-106,Boxing & Martial Arts,https://www.lazada.sg/catalog?q=Boxing%20%26%20Martial%20Arts&from=hp_categories&src=all_channel,,,,,,,,,
-107,Boxing pads,https://www.lazada.sg/catalog?q=Boxing%20pads&from=hp_categories&src=all_channel,,,,,,,,,
-108,Boys' Clothing,https://www.lazada.sg/catalog?q=Boys%27%20Clothing&from=hp_categories&src=all_channel,,,,,,,,,
-109,Boys' Shoes,https://www.lazada.sg/catalog?q=Boys%27%20Shoes&from=hp_categories&src=all_channel,,,,,,,,,
-110,Braces,https://www.lazada.sg/catalog?q=Braces&from=hp_categories&src=all_channel,,,,,,,,,
-111,Brain & Memory,https://www.lazada.sg/catalog?q=Brain%20%26%20Memory&from=hp_categories&src=all_channel,,,,,,,,,
-112,Bras,https://www.lazada.sg/catalog?q=Bras&from=hp_categories&src=all_channel,,,,,,,,,
-113,Breakfast & Pastries,https://www.lazada.sg/catalog?q=Breakfast%20%26%20Pastries&from=hp_categories&src=all_channel,,,,,,,,,
-114,Breakfast Cereals,https://www.lazada.sg/catalog?q=Breakfast%20Cereals&from=hp_categories&src=all_channel,,,,,,,,,
-115,Breakfast Cereals & Spreads,https://www.lazada.sg/catalog?q=Breakfast%20Cereals%20%26%20Spreads&from=hp_categories&src=all_channel,,,,,,,,,
-116,Breast Pump Accessories,https://www.lazada.sg/catalog?q=Breast%20Pump%20Accessories&from=hp_categories&src=all_channel,,,,,,,,,
-117,Breast Pumps,https://www.lazada.sg/catalog?q=Breast%20Pumps&from=hp_categories&src=all_channel,,,,,,,,,
-118,Briefs,https://www.lazada.sg/catalog?q=Briefs&from=hp_categories&src=all_channel,,,,,,,,,
+87,Bikinis,https://www.lazada.sg/catalog?q=Bikinis&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\087_Bikinis,2026-07-12 09:44:24,2026-07-12 09:45:09,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/catalog?q=Bikinis&from=hp_categories&src=all_channel"", waiting until ""domcontentloaded""
+"
+88,Bird Feed,https://www.lazada.sg/catalog?q=Bird%20Feed&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\088_Bird_Feed,2026-07-12 09:45:43,2026-07-12 09:45:49,"Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to ""https://www.lazada.sg/catalog?q=Bird%20Feed&from=hp_categories&src=all_channel"", waiting until ""domcontentloaded""
+"
+89,Biscuits & Crackers,https://www.lazada.sg/catalog?q=Biscuits%20%26%20Crackers&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\089_Biscuits_&_Crackers,2026-07-12 09:45:57,2026-07-12 09:46:42,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/catalog?q=Biscuits%20%26%20Crackers&from=hp_categories&src=all_channel"", waiting until ""domcontentloaded""
+"
+90,Blankets & Throws,https://www.lazada.sg/catalog?q=Blankets%20%26%20Throws&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\090_Blankets_&_Throws,2026-07-12 09:46:54,2026-07-12 09:49:14,[Errno 22] Invalid argument
+91,Blaster toys,https://www.lazada.sg/catalog?q=Blaster%20toys&from=hp_categories&src=all_channel,partial,100,40,40,64,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\091_Blaster_toys,2026-07-12 10:01:52,2026-07-12 10:15:48,
+92,Blood Pressure Monitors,https://www.lazada.sg/catalog?q=Blood%20Pressure%20Monitors&from=hp_categories&src=all_channel,partial,100,40,15,38,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\092_Blood_Pressure_Monitors,2026-07-12 10:16:38,2026-07-12 10:27:58,
+93,Blu-Ray/DVD Players,https://www.lazada.sg/catalog?q=Blu-Ray/DVD%20Players&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\093_Blu-Ray_DVD_Players,2026-07-12 10:28:51,2026-07-12 10:28:51,"Page.goto: Target page, context or browser has been closed"
+94,Body,https://www.lazada.sg/catalog?q=Body&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\094_Body,2026-07-12 10:38:38,2026-07-12 10:43:58,Lazada verification or traffic page detected
+95,Body Moisturizers,https://www.lazada.sg/catalog?q=Body%20Moisturizers&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\095_Body_Moisturizers,2026-07-12 10:46:05,2026-07-12 10:48:46,Lazada verification or traffic page detected
+96,Body Scrubs,https://www.lazada.sg/catalog?q=Body%20Scrubs&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\096_Body_Scrubs,2026-07-12 10:49:05,2026-07-12 10:55:45,Lazada verification or traffic page detected
+97,Body Wash,https://www.lazada.sg/catalog?q=Body%20Wash&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\097_Body_Wash,2026-07-12 10:59:03,2026-07-12 11:06:02,Lazada verification or traffic page detected
+98,Bone & Joint Support,https://www.lazada.sg/catalog?q=Bone%20%26%20Joint%20Support&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\098_Bone_&_Joint_Support,2026-07-12 11:06:41,2026-07-12 11:14:33,Lazada verification or traffic page detected
+99,Bookcases & Shelving,https://www.lazada.sg/catalog?q=Bookcases%20%26%20Shelving&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\099_Bookcases_&_Shelving,2026-07-12 11:14:57,2026-07-12 11:15:51,Lazada verification or traffic page detected
+100,Books,https://www.lazada.sg/catalog?q=Books&from=hp_categories&src=all_channel,running,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\100_Books,2026-07-12 11:16:50,,
+101,Boots,https://www.lazada.sg/catalog?q=Boots&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\101_Boots,2026-07-12 11:27:01,2026-07-12 11:42:37,Lazada verification or traffic page detected
+102,Bottle Cleaning,https://www.lazada.sg/catalog?q=Bottle%20Cleaning&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\102_Bottle_Cleaning,2026-07-12 11:47:52,2026-07-12 12:00:06,Lazada verification or traffic page detected
+103,Bottle Warmers & Sterilizers,https://www.lazada.sg/catalog?q=Bottle%20Warmers%20%26%20Sterilizers&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\103_Bottle_Warmers_&_Sterilizers,2026-07-12 12:20:13,2026-07-12 12:25:25,Lazada verification or traffic page detected
+104,Bottoms,https://www.lazada.sg/catalog?q=Bottoms&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\104_Bottoms,2026-07-12 12:25:51,2026-07-12 12:42:59,Lazada verification or traffic page detected
+105,Bowls & Feeders,https://www.lazada.sg/catalog?q=Bowls%20%26%20Feeders&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\105_Bowls_&_Feeders,2026-07-12 12:47:38,2026-07-12 12:51:36,Lazada verification or traffic page detected
+106,Boxing & Martial Arts,https://www.lazada.sg/catalog?q=Boxing%20%26%20Martial%20Arts&from=hp_categories&src=all_channel,partial,100,40,40,956,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\106_Boxing_&_Martial_Arts,2026-07-12 12:53:30,2026-07-12 13:07:31,
+107,Boxing pads,https://www.lazada.sg/catalog?q=Boxing%20pads&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\107_Boxing_pads,2026-07-12 13:08:17,2026-07-12 13:20:27,Lazada verification or traffic page detected
+108,Boys' Clothing,https://www.lazada.sg/catalog?q=Boys%27%20Clothing&from=hp_categories&src=all_channel,partial,100,40,40,2530,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\108_Boys'_Clothing,2026-07-12 13:24:26,2026-07-12 13:40:16,
+109,Boys' Shoes,https://www.lazada.sg/catalog?q=Boys%27%20Shoes&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\109_Boys'_Shoes,2026-07-12 13:40:46,2026-07-12 13:46:48,Lazada verification or traffic page detected
+110,Braces,https://www.lazada.sg/catalog?q=Braces&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\110_Braces,2026-07-12 13:47:28,2026-07-12 13:58:10,Lazada verification or traffic page detected
+111,Brain & Memory,https://www.lazada.sg/catalog?q=Brain%20%26%20Memory&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\111_Brain_&_Memory,2026-07-12 18:52:56,2026-07-12 19:04:39,Lazada verification or traffic page detected
+112,Bras,https://www.lazada.sg/catalog?q=Bras&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\112_Bras,2026-07-12 19:05:16,2026-07-12 19:25:02,Lazada verification or traffic page detected
+113,Breakfast & Pastries,https://www.lazada.sg/catalog?q=Breakfast%20%26%20Pastries&from=hp_categories&src=all_channel,partial,100,40,39,178,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\113_Breakfast_&_Pastries,2026-07-12 19:25:46,2026-07-12 19:40:43,
+114,Breakfast Cereals,https://www.lazada.sg/catalog?q=Breakfast%20Cereals&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\114_Breakfast_Cereals,2026-07-12 19:41:32,2026-07-12 19:42:17,"Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/catalog?q=Breakfast%20Cereals&from=hp_categories&src=all_channel"", waiting until ""domcontentloaded""
+"
+115,Breakfast Cereals & Spreads,https://www.lazada.sg/catalog?q=Breakfast%20Cereals%20%26%20Spreads&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\115_Breakfast_Cereals_&_Spreads,2026-07-12 20:01:07,2026-07-12 20:13:36,Lazada verification or traffic page detected
+116,Breast Pump Accessories,https://www.lazada.sg/catalog?q=Breast%20Pump%20Accessories&from=hp_categories&src=all_channel,partial,100,40,39,231,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\116_Breast_Pump_Accessories,2026-07-12 20:23:18,2026-07-12 20:37:30,
+117,Breast Pumps,https://www.lazada.sg/catalog?q=Breast%20Pumps&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\117_Breast_Pumps,2026-07-12 20:38:24,2026-07-12 20:51:45,Lazada verification or traffic page detected
+118,Briefs,https://www.lazada.sg/catalog?q=Briefs&from=hp_categories&src=all_channel,failed,100,,,,D:\ai\shopee_spider_windows_package\dist\t2\dist\ShopeeSpider\desktop_outputs\lazada_products_20260710_084733\categories\118_Briefs,2026-07-12 20:52:50,2026-07-12 21:05:25,Lazada verification or traffic page detected
 119,"Brooms, Mops & Sweepers","https://www.lazada.sg/catalog?q=Brooms,%20Mops%20%26%20Sweepers&from=hp_categories&src=all_channel",,,,,,,,,
 120,Building Blocks,https://www.lazada.sg/catalog?q=Building%20Blocks&from=hp_categories&src=all_channel,,,,,,,,,
 121,Business Bags,https://www.lazada.sg/catalog?q=Business%20Bags&from=hp_categories&src=all_channel,,,,,,,,,
