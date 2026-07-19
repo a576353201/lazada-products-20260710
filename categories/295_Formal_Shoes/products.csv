@@ -1,0 +1,68 @@
+﻿序号,shopid,itemid,标题,图片地址,图片地址列表,价格,划线价,折扣,详情,详情图片列表,规格,SKU列表,销量,评分,评分明细,店铺名,店铺地区,api地址,来源页面,详情页URL,详情状态,详情错误,采集时间,原始JSON
+1,,2234573962,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2234573962.html,pending,,,{}
+2,,2990129459,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2990129459.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i2990129459.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:46:16.734834+00:00,{}
+3,,3583030972,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3583030972.html,pending,,,{}
+4,,3147745077,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3147745077.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i3147745077.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:43:42.907841+00:00,{}
+5,,2472802587,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2472802587.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i2472802587.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:45:25.582125+00:00,{}
+6,,3610919068,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3610919068.html,pending,,,{}
+7,,3583060742,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3583060742.html,pending,,,{}
+8,,2521656315,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2521656315.html,pending,,,{}
+9,,3147723195,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3147723195.html,pending,,,{}
+10,,3449682008,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3449682008.html,pending,,,{}
+11,,1941627407,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i1941627407.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i1941627407.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:42:51.518063+00:00,{}
+12,,2756257589,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2756257589.html,pending,,,{}
+13,,314652169,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i314652169.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i314652169.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:44:35.516752+00:00,{}
+14,,1595798561,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i1595798561.html,pending,,,{}
+15,,314628733,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i314628733.html,pending,,,{}
+16,,1900175261,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i1900175261.html,pending,,,{}
+17,,2754472576,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2754472576.html,pending,,,{}
+18,,2006569235,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2006569235.html,pending,,,{}
+19,,1903503483,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i1903503483.html,pending,,,{}
+20,,2985308840,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2985308840.html,error,"navigation error: Page.goto: net::ERR_TIMED_OUT at https://www.lazada.sg/products/pdp-i2985308840.html
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i2985308840.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:40:15.455688+00:00,{}
+21,,13644860968,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i13644860968.html,pending,,,{}
+22,,2480883362,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2480883362.html,pending,,,{}
+23,,3503001782,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3503001782.html,pending,,,{}
+24,,3547534562,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3547534562.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i3547534562.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:41:58.414068+00:00,{}
+25,,3452173451,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3452173451.html,pending,,,{}
+26,,3583020754,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3583020754.html,pending,,,{}
+27,,3019503614,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3019503614.html,pending,,,{}
+28,,2997790293,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2997790293.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i2997790293.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:39:26.774027+00:00,{}
+29,,1781010156,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i1781010156.html,pending,,,{}
+30,,1460384540,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i1460384540.html,pending,,,{}
+31,,3449523947,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3449523947.html,pending,,,{}
+32,,2432901853,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2432901853.html,pending,,,{}
+33,,3451209461,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3451209461.html,pending,,,{}
+34,,3453497557,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3453497557.html,pending,,,{}
+35,,3594493730,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3594493730.html,pending,,,{}
+36,,2377487755,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i2377487755.html,pending,,,{}
+37,,13723239617,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i13723239617.html,pending,,,{}
+38,,3002369042,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3002369042.html,error,"navigation error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to ""https://www.lazada.sg/products/pdp-i3002369042.html"", waiting until ""domcontentloaded""
+",2026-07-19T07:41:07.250990+00:00,{}
+39,,1231058230,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i1231058230.html,pending,,,{}
+40,,3002387455,,,[],,,,[],[],[],[],,,,,,,https://www.lazada.sg/catalog?q=Formal+Shoes&from=hp_categories&src=all_channel&price=20-,https://www.lazada.sg/products/pdp-i3002387455.html,pending,,,{}
